@@ -1,6 +1,6 @@
 
 //Functions related to Admin module
-//---------------------------------
+//----------------------------------
 
 const mongoose=require('mongoose')
 const userData=require('../Models/userModel')
