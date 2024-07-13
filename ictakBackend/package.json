@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  },
+  "name": "fsd-final-project",
+  "version": "1.0.0",
+  "description": "ICTAK Learning Portal- Admin and Mentor Modules",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amalxflash/FSD-Final-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amalxflash/FSD-Final-Project/issues"
+  },
+  "homepage": "https://github.com/Amalxflash/FSD-Final-Project#readme"
+}

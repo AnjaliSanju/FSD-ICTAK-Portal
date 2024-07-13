@@ -1,0 +1,9 @@
+ict-learning-portal
+
+username: team3
+
+password: 44I8nhm9UFA500jo
+
+connection string: mongodb+srv://team3:44I8nhm9UFA500jo@cluster0.kddfwx8.mongodb.net/
+
+
